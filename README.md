@@ -1,1 +1,1 @@
-# netfilx_sql_project
+# netfilx movies and TV shows sata analysis using SQL
