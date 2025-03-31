@@ -1,3 +1,3 @@
-# netfilx movies and TV shows sata analysis using SQL
+# Netfilx Movies and TV Shows Data Dnalysis using SQL
 
-
+[Netflix Logo]()
